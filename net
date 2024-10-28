@@ -1,0 +1,84 @@
+org
+===
+Institute of Electrical and Electronics Engineers       (IEEE)
+Internet Architecture Board                             (IAB)
+Internet Assigned Numbers Authority                     (IANA)
+Internet Engineering Task Force                         (IETF)
+Internet Network Information Center
+Internet Research Task Force                            (IRTF)
+Internet Society                                        (ISOC)
+
+rfc
+===
+1009    Requirements for Internet gateways
+1034    Domain names - concepts and facilities
+1035    Domain names - implementation and specification
+1042    Standard for the transmission of IP datagrams over IEEE 802 networks
+1055    Nonstandard for transmission of IP datagrams over serial lines: SLIP
+1058    Routing Information Protocol
+1071    Computing the Internet checksum
+1075    Distance Vector Multicast Routing Protocol
+1112    Host extensions for IP multicasting
+1122    Requirements for Internet Hosts - Communication Layers
+1123    Requirements for Internet Hosts - Application and Support
+1127    Perspective on the Host Requirements RFCs
+1141    Incremental updating of the Internet checksum
+1144    Compressing TCP/IP Headers for Low-Speed Serial Links
+1185    TCP Extension for High-Speed Paths
+1191    Path MTU discovery
+1219    On the assignment of subnet numbers
+1247    OSPF Version 2
+1256    ICMP Router Discovery Messages
+1267    Border Gateway Protocol 3 (BGP-3)
+1268    Application of the Border Gateway Protocol in the Internet
+1305    Network Time Protocol (Version 3) Specification
+1323    TCP Extensions for High Performance
+1332    The PPP Internet Protocol Control Protocol (IPCP)
+1337    TIME-WAIT Assassination Hazards in TCP
+1340    Assigned Numbers
+1347    TCP and UDP with Bigger Addresses (TUBA)
+1349    Type of Service in the Internet Protocol Suite
+1388    RIP Version 2 Carrying Additional Information
+1454    Comparison of Proposals for Next Version of IP
+1466    Guidelines for Management of IP Address Space
+1467    Status of CIDR Deployment in the Internet
+1475    TP/IX: The Next Internet
+1480    The US Domain
+1518    An Architecture for IP Address Allocation with CIDR
+1519    Classless Inter-Domain Routing (CIDR)
+1548    The Point-to-Point Protocol (PPP)
+1600    Internet Official Protocol Standards
+1700    Assigned Numbers
+1886    DNS Extensions to support IP version 6
+1981    Path MTU Discovery for IP version 6
+2026    The Internet Standards Process -- Revision 3
+2460    Internet Protocol, Version 6 (IPv6) Specification
+2474    Definition of the Differentiated Services Field
+2581    TCP Congestion Control
+2675    IPv6 Jumbograms
+2719    Framework Architecture for Signaling Transport
+2960    Stream Control Transmission Protocol
+2988    Computing TCP's Retransmission Timer
+3152    Delegation of IP6.ARPA
+3168    The Addition of Explicit Congestion Notification (ECN) to IP
+3232    Assigned Numbers: RFC 1700 is Replaced by an On-line Database
+3286    An Introduction to the Stream Control Transmission Protocol (SCTP)
+3309    Stream Control Transmission Protocol (SCTP) Checksum Change
+3390    Increasing TCP's Initial Window
+3493    Basic Socket Interface Extensions for IPv6
+3542    Advanced Sockets Application Program Interface (API) for IPv6
+768     User Datagram Protocol
+791     Internet Protocol
+792     Internet Control Message Protocol
+793     Transmission Control Protocol
+826     An Ethernet Address Resolution Protocol
+862     Echo Protocol
+863     Discard Protocol
+864     Character Generator Protocol
+868     Time Protocol
+893     Trailer encapsulations
+894     A Standard for the Transmission of IP datagrams over Ethernet Networks
+903     A Reverse Address Resolution Protocol
+906     Bootstrap loading using TFTP
+922     Broadcasting Internet datagrams in the presence of subnets
+950     Internet Standard Subnetting Procedure
