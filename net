@@ -66,6 +66,7 @@ rfc
 3286    An Introduction to the Stream Control Transmission Protocol (SCTP)
 3309    Stream Control Transmission Protocol (SCTP) Checksum Change
 3390    Increasing TCP's Initial Window
+3484    Default Address Selection for IPv6
 3493    Basic Socket Interface Extensions for IPv6
 3542    Advanced Sockets Application Program Interface (API) for IPv6
 768     User Datagram Protocol
