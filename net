@@ -47,6 +47,9 @@ rfc
 1480    The US Domain
 1518    An Architecture for IP Address Allocation with CIDR
 1519    Classless Inter-Domain Routing (CIDR)
+1533    DHCP Options and BOOTP Vendor Extensions
+1541    Dynamic Host Configuration Protocol
+1542    Clarifications and Extensions for the Bootstrap Protocol
 1548    The Point-to-Point Protocol (PPP)
 1600    Internet Official Protocol Standards
 1700    Assigned Numbers
@@ -84,3 +87,4 @@ rfc
 906     Bootstrap loading using TFTP
 922     Broadcasting Internet datagrams in the presence of subnets
 950     Internet Standard Subnetting Procedure
+951     Bootstrap Protocol
