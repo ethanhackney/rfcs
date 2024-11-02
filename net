@@ -57,6 +57,8 @@ rfc
 1886    DNS Extensions to support IP version 6
 1981    Path MTU Discovery for IP version 6
 2026    The Internet Standards Process -- Revision 3
+2133    Basic Socket Interface Extensions for IPv6
+2428    FTP Extensions for IPv6 and NATs
 2460    Internet Protocol, Version 6 (IPv6) Specification
 2474    Definition of the Differentiated Services Field
 2553    Basic Socket Interface Extensions for IPv6
