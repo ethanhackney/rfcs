@@ -68,6 +68,7 @@ rfc
 2960    Stream Control Transmission Protocol
 2988    Computing TCP's Retransmission Timer
 3152    Delegation of IP6.ARPA
+3164    The BSD Syslog Protocol
 3168    The Addition of Explicit Congestion Notification (ECN) to IP
 3232    Assigned Numbers: RFC 1700 is Replaced by an On-line Database
 3286    An Introduction to the Stream Control Transmission Protocol (SCTP)
