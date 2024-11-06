@@ -88,6 +88,7 @@ rfc
 868     Time Protocol
 893     Trailer encapsulations
 894     A Standard for the Transmission of IP datagrams over Ethernet Networks
+896     Congestion Control in IP/TCP Internetworks
 903     A Reverse Address Resolution Protocol
 906     Bootstrap loading using TFTP
 922     Broadcasting Internet datagrams in the presence of subnets
